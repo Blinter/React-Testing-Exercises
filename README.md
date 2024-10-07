@@ -20,6 +20,10 @@ Write a (failing) test to check that the left arrow is missing when you’re on 
 
 ## **Further Study: Coin Flip**
 
+### TODO
+
+---
+
 For this part, you will create a coin flipping counter.
 
 The user should be able to click on a button to flip a coin. Every time the user clicks, the coin gets flipped again. The app should also keep track of how many times heads and tails have shown up.
